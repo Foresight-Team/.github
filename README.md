@@ -1,4 +1,4 @@
-Welcome to the homepage of Team Foresight
+**Welcome to the homepage of Team Foresight
 
 Team foresight is comprised of two partners: Nathan, and Monika.
 
@@ -8,4 +8,4 @@ She accepted, and the rest is history.
 At the moment, due to each of us having our own ongoing projects/commitments, there is no way to estimate a time of completion.
 So we ask that you be patient, and let us work.
 
-T.F.
+*T.F.
