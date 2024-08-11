@@ -11,7 +11,7 @@ He brought some friends on board, and here we are.
 
 ## STAFF
 
-### (Nathan)[https://github.com/TRIDENT1313]: Director, writer, programmer, musician
+### [Nathan](https://github.com/TRIDENT1313): Director, writer, programmer, musician
 Nathan is the director of the team. He's the primary writer and programmer.
 He's also assists in composing the soundtracks.
 He started out as a python programmer, but has since specialised in C#.
