@@ -34,4 +34,4 @@ He does the majority of the soundtracks, and is part of a post-punk band.
 He assists with editing and proofreading.
 
 
-(C) TEAM FORESIGHT 2022-2024
+&copy; TEAM FORESIGHT 2022-2024
