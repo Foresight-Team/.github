@@ -21,12 +21,12 @@ He's also assists in composing the soundtracks.
 
 He started out as a python programmer, but has since specialised in C#.
 
-### Jess: Writer, editor, proofreader
+### [Jess](https://github.com/Jessica-Crawley): Writer, editor, proofreader
 Jess is predominantly a writer/editor, but also provides backup for proofreading.
 
 She assists Nathan in writing, and makes sure his scripts are the best they can be.
 
-### JC: Soundtrack, editor, proofreader
+### [JC](https://github.com/CrucifyMeJcOffical): Soundtrack, editor, proofreader
 JC is the primary composer for our games and a published musician in his own right.
 
 He does the majority of the soundtracks, and is part of a post-punk band.
@@ -34,4 +34,4 @@ He does the majority of the soundtracks, and is part of a post-punk band.
 He assists with editing and proofreading.
 
 
-(C) TEAM FORESIGHT 2023
+(C) TEAM FORESIGHT 2022-2024
